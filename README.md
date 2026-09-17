@@ -1,3 +1,15 @@
+
+## Dashboard Screenshots
+
+### Dashboard 1 — Safety Performance
+
+![EHS Warehouse Safety Analysis](Screenshot/EHS_Warehouse_Safety_Analysis.png)
+
+### Dashboard 2 — Safety Investigation
+
+![EHS Warehouse Safety Investigation](Screenshot/EHS_Warehouse_Safety_Investigation.png)
+
+
 # EHS Warehouse Safety Analysis
 
 ## Overview
